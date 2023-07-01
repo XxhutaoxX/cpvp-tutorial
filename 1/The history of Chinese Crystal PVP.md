@@ -7,3 +7,5 @@
 前言：2021年的水晶发展我（Lan_Xuanyu）因为一些自身原因并未经历，如果叙述中有错误可以指出。  
 在2020年下半年的时候，出现了一个强力的客户端，名叫UwUGod（前身CandyCat）。而在2021年，UwUGod2的出现，让它大放异彩。在2021年刚开始的时候，国服水晶PVP客户端的主流为国人Six所编写的HyperLethal（即HL），UwUGod2所拥有的强力水晶SmartCrystalAura使得UwUGod2随后也成为主流之一。  
 2021年11月左右，Luna5ama发布了TrollHack，这对国服来说是影响巨大的。它兼有强力水晶（ZealotCrystal+）和一些方便功能（例如HoleSnap），这使得它开始慢慢取代了HL和UwUGod2，大概同一段时间，国人璀璨编写的Stay（后由西瓜接手）转向了公益。TrollHack以及Stay的出现使得国服水晶PVP开始朝着“所谓全Ai自动”的方向发展。
+
+<b><font size="5"><a href="../readme.md">返回首页</a></font></b>
