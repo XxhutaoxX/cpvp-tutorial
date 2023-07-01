@@ -5,4 +5,6 @@
 ### 辅助功能端
 当前主流的辅端为Rebirth，StayPro。  
 Rebirth是玩家iMadCat以mio为base写的一款辅助端。  
-StayPro是玩家璀璨以cursa为base写的一款辅助端。
+StayPro是玩家璀璨以cursa为base写的一款辅助端。  
+
+<b><font size="5"><a href="../readme.md">返回首页</a></font></b>
